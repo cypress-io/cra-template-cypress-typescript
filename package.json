@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-cypress-typescript",
+  "version": "0.0.0-development",
+  "private": false,
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cypress",
+    "typescript"
+  ],
+  "description": "The base TypeScript template for Create React App with Cypress.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cypress-io/cra-template-cypress-typescript.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/cypress-io/cra-template-cypress-typescript/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
