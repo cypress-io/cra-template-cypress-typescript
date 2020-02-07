@@ -8,7 +8,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@types/jest": "^24.0.0",
-    "cypress": "3.8.0",
+    "cypress": "4.0.0",
     "eslint-plugin-cypress": "^2.7.0",
     "typescript": "~3.7.2"
   },
