@@ -10,7 +10,7 @@
     "@types/jest": "24.9.1",
     "cypress": "4.0.0",
     "eslint-plugin-cypress": "2.11.1",
-    "typescript": "3.7.5"
+    "typescript": "3.9.3"
   },
   "scripts": {
     "cypress:open": "cypress open",
