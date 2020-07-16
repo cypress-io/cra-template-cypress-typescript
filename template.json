@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@cypress/webpack-preprocessor": "5.4.1",
-    "@testing-library/react": "10.4.6",
+    "@testing-library/react": "10.4.7",
     "@testing-library/jest-dom": "5.11.1",
     "@testing-library/user-event": "12.0.11",
     "@types/node": "12.12.45",
