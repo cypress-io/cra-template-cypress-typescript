@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@cypress/webpack-preprocessor": "5.4.2",
+    "@cypress/webpack-preprocessor": "5.4.3",
     "@testing-library/react": "10.4.8",
     "@testing-library/jest-dom": "5.11.2",
     "@testing-library/user-event": "12.1.1",
