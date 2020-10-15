@@ -3,7 +3,7 @@
     "@cypress/webpack-preprocessor": "5.4.7",
     "@testing-library/react": "11.1.0",
     "@testing-library/jest-dom": "5.11.4",
-    "@testing-library/user-event": "12.1.7",
+    "@testing-library/user-event": "12.1.8",
     "@types/node": "12.12.45",
     "@types/react": "16.9.52",
     "@types/react-dom": "16.9.8",
