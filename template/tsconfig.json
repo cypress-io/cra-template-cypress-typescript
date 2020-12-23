@@ -1,7 +1,4 @@
 {
-  "exclude": [
-    "cypress/*/*.ts"
-  ],
   "compilerOptions": {
     "target": "es5",
     "lib": [
